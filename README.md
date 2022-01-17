@@ -9,7 +9,7 @@
 
 # Description
 
-Github page: https://sabrtraveler.github.io/when_is_covid_over_ohya/
+Github page: https://hellyf.github.io/when_is_covid_over_ohya/
 
 The Covid pandemic has been a terrible globalexperience. The Covid Watch app was designed toget the latest Covid-19 data in the United States. Inaddition, you will also be able to view the latest newsheadlines from across the globe. This data isautomatically updated every 12hrs.
 
@@ -19,3 +19,5 @@ New York Times news - https://developer.nytimes.com/apis
 
 The following images shows the web application's appearance and functionality:<br><br>
 <img src="./assets/images/1.png" style="width: 50%; max-width: 50%;">
+
+disclamer the website is completely responsive i jus forkered my whole project by mistake before we changed it 
